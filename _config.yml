@@ -1,16 +1,16 @@
-permalink: /posts/:title/
+
 show_excerpts: true
 baseurl: ""
 sass:
   sass_dir: _sass
 
+permalink: /posts/:title/
 texture:
-  style: [black]
   title: Handong's Blog
-  date_format: "%b %-d, %Y"
   tagline: e-mail:ritnis4751@kookmin.ac.kr
+  date_format: "%b %-d, %Y"
+  style: black
 
-  
   social_links:
     github: ritnis4751
     rss: what is this?
