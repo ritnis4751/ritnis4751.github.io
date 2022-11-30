@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ureca Class Post"
 date:   2022-11-30 17:43:00 +0900
 categories: jekyll update
 ---
