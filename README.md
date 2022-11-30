@@ -20,3 +20,4 @@
 
 ## Step5: Upload The Posts
   이후에 과제의 요구사항에 따라 Post를 업로드했다.
+  ![Ureca class post](/scree3.png)
