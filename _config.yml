@@ -22,7 +22,10 @@ show_excerpts: true
 texture:
   style: [black]
   title: Handong's Blog
+  date_format: "%b %-d, %Y"
   tagline: e-mail:ritnis4751@kookmin.ac.kr
+  showNav: false
+  showPicker: true
 
   
   social_links:
