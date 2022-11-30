@@ -34,9 +34,8 @@ texture:
   github_username:  ritnis4751
   
   social_links:
-    instargram: thelehhman
     github: ritnis4751
-    linkedIn: in/thelehhman
+    linkedIn: https://www.instagram.com/dding_dong03/
     rss: rss
 # Build settings
 theme: minima
