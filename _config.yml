@@ -26,7 +26,7 @@ texture:
 
 
 
-  
+
     내가 해냄.
     ]
   
@@ -44,7 +44,7 @@ texture:
     github: ritnis4751
     rss: what is this?
 # Build settings
-theme: minima
+theme: texture
 plugins:
   - jekyll-feed
 
