@@ -31,7 +31,7 @@ twitter_username: None
 github_username:  ritnis4751
 
 # Build settings
-theme: texture
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -54,3 +54,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+ins:
+  - jekyll-seo-tag
+#  - jekyll-feed
