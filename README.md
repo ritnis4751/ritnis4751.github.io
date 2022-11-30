@@ -1,12 +1,3 @@
-# My Blog Builld 과정
-일반 글씨
-**굵은 글씨**
-## 소제목##
-
-```
-코드
-```
-
 **Link**: [ritnis4751.github.io/](https://ritnis4751.github.io/)
 
 ## Step1: Ruby & GCC & Make Download
