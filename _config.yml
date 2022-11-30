@@ -13,18 +13,14 @@ texture:
   tagline: e-mail:ritnis4751@kookmin.ac.kr
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: true
 
   social_links:
     github: ritnis4751
-    rss: what is this?
 # Build settings
 # theme: texture
 plugins:
   - jekyll-seo-tag
 
-
-ins:
-  - jekyll-seo-tag
 #  - jekyll-feed
