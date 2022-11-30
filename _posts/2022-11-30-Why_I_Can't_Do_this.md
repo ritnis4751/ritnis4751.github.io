@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "화나네 진짜ㅜ"
+title:  "화나네 진짜ㅜ/ 이게 안 되네;"
 date:   2022-11-30 01:51:55 +0900
 categories: jekyll update
 ---
