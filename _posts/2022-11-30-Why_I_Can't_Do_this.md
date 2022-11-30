@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I can't do this"
+title:  "화나네 진짜ㅜ"
 date:   2022-11-30 01:51:55 +0900
 categories: jekyll update
 ---
