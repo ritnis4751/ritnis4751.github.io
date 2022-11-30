@@ -25,6 +25,7 @@
 ## Step4: Apply The Theme
   내 마음에 드는 테마인 [Texture](https://github.com/samarsault/texture)테마를 찾아 내 노트북의 임의의 로컬 저장소에 clone한 뒤에
   블로그의 로컬 저장소에 덮어씌워 테마를 적용했다.
+  ![texture homepage](/screen2.png)
 
 ## Step5: Upload The Posts
   이후에 과제의 요구사항에 따라 Post를 업로드했다.
